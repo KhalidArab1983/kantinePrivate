@@ -16,7 +16,7 @@
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-size: cover;
-            background-color: yellow;
+            background-color: gold;
         }
     </style>
 </head>
